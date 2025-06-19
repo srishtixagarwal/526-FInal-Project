@@ -1,1 +1,1 @@
-# 526-FInal-Project
+# 526-Final-Project
