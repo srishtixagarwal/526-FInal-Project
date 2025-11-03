@@ -1,1 +1,1 @@
-# 526-Final-Project
+# Econ 526-Final-Project
